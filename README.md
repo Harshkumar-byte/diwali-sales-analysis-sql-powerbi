@@ -196,9 +196,11 @@ Diwali-Sales-Analysis/
 # 📊 Dashboard Preview
 
 The Power BI dashboard includes:
-
 * KPI Cards (Revenue, Orders, AOV)
 * Gender & Age group breakdown
 * Top product categories
 * State-wise revenue map
 * Zone performance charts
+
+ <img width="1166" height="655" alt="image" src="https://github.com/user-attachments/assets/a599fc16-97d0-4d4e-9808-1425ccb13713" />
+
